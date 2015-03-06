@@ -18,7 +18,7 @@ def setup_environment():
         'DEBUG': 'false',
         'EMAIL_TO': 'you@yourdomain.com',
         'SMTP_SERVER': 'localhost',
-        'EMAIL_FROM': 'localhost',
+        'EMAIL_FROM': 'nipap@localhost',
         }
 
     environment = {}
